@@ -1,0 +1,9 @@
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\bin\Debug\TCP-Client.exe.config
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\bin\Debug\TCP-Client.exe
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\bin\Debug\TCP-Client.pdb
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\obj\Debug\TCP_Client.Form_Client.resources
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\obj\Debug\TCP_Client.Properties.Resources.resources
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\obj\Debug\TCP-Client.csproj.GenerateResource.Cache
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\obj\Debug\TCP-Client.exe
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\obj\Debug\TCP-Client.pdb
+G:\0521\winsocket測驗\TCP-Socket-M\TCP-Client\obj\Debug\TCP-Client.csprojResolveAssemblyReference.cache
